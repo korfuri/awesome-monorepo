@@ -4,14 +4,12 @@ A curated list of awesome Monorepo tools, software and
 architectures. Inspired
 by [https://github.com/vinta/awesome-python](awesome-python).
 
-#### Contents
-
 ## Build systems & dependency management tools
 
-* [Bazel](https://bazel.build)
-* [Pants](http://www.pantsbuild.org/)
-* [Buck](https://buckbuild.com/)
-* [Lerna](https://lernajs.io/)
+* [Bazel](https://bazel.build) is Google's monorepo-oriented build system.
+* [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
+* [Pants](http://www.pantsbuild.org/) is a monorepo-oriented build system, used by Twitter, Foursquare and multiple other companies.
+* [Lerna](https://lernajs.io/) is a tool for managing JavaScript projects with multiple packages.
 
 ## Repository management tools
 
@@ -60,7 +58,8 @@ by [https://github.com/vinta/awesome-python](awesome-python).
 
 ## CI tools
 
-* [Incremental CI in Jenkins with Bazel](https://www.kchodorow.com/blog/2015/10/15/one-weird-trick-for-fast-ci/) by Kristina Chodorow (Bazel team)
+* [Incremental CI in Jenkins with Bazel](https://www.kchodorow.com/blog/2015/10/15/one-weird-trick-for-fast-ci/), article by Kristina Chodorow (Bazel team)
+* [bazel-travis](https://github.com/korfuri/bazel-travis) is a minimal setup to use Travis CI in a Bazel monorepo.
 
 ## Code ownership
 
