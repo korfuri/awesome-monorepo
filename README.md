@@ -12,6 +12,7 @@ by [https://github.com/vinta/awesome-python](awesome-python).
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
 * [Lerna](https://lernajs.io/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
+* [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 
 ## Repository management tools
 
