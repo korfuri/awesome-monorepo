@@ -2,7 +2,7 @@
 
 A curated list of awesome Monorepo tools, software and
 architectures. Inspired
-by [https://github.com/vinta/awesome-python](awesome-python).
+by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python).
 
 ## Build systems & dependency management tools
 
