@@ -1,8 +1,23 @@
-# Awesome Monorepo
+# Awesome Monorepo [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome Monorepo tools, software and
-architectures. Inspired
-by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python).
+architectures. Monorepos, short for mono-repositories, are
+repositories that contain multiple projects, usually related to each
+other.
+
+Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python).
+
+## Contents
+
+* [Build systems & dependency management tools](#build-systems--dependency-management-tools)
+* [Repository management tools](#repository-management-tools)
+* [Good reads](#good-reads)
+* [Version control systems & add-ons](#version-control-systems--add-ons)
+    * [Git](#git)
+	* [Mercurial](#mercurial)
+* [Development process tools](#development-process-tools)
+* [Notable public monorepos](#notable-public-monorepos)
+* [Migration tools](#migration-tools)
 
 ## Build systems & dependency management tools
 
@@ -13,7 +28,7 @@ by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-py
 * [Lerna](https://lernajs.io/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
-* [Symplify\Monorepo](https://github.com/Symplify/Monorepo) is a PHP monorepo management tool 
+* [Symplify\Monorepo](https://github.com/Symplify/Monorepo) is a PHP monorepo management tool.
 
 ## Repository management tools
 
@@ -31,7 +46,7 @@ by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-py
 
 #### Tools
 
-* [Git shallow clones](https://git-scm.com/docs/git-clone) let you clone only part of your Git history
+* [Git shallow clones](https://git-scm.com/docs/git-clone) let you clone only part of your Git history.
 	* [1](https://www.perforce.com/blog/git-beyond-basics-using-shallow-clones)
 	* [2](https://www.atlassian.com/blog/git/handle-big-repositories-git)
 	* [3](https://blogs.gnome.org/simos/2009/04/18/git-clones-vs-shallow-git-clones/)
@@ -63,19 +78,21 @@ by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-py
 
 * [Scaling Mercurial at Facebook](https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook/)
 
-## Code reviews
+## Development process tools
 
-* [Rietveld](https://github.com/rietveld-codereview/rietveld) is a code review tool by Google used by Chromium
+### Code reviews
 
-## CI tools
+* [Rietveld](https://github.com/rietveld-codereview/rietveld) is a code review tool by Google used by Chromium.
 
-* [Incremental CI in Jenkins with Bazel](https://www.kchodorow.com/blog/2015/10/15/one-weird-trick-for-fast-ci/), article by Kristina Chodorow (Bazel team)
+### CI tools
+
+* [Incremental CI in Jenkins with Bazel](https://www.kchodorow.com/blog/2015/10/15/one-weird-trick-for-fast-ci/), article by Kristina Chodorow (Bazel team).
 * [bazel-travis](https://github.com/korfuri/bazel-travis) is a minimal setup to use Travis CI in a Bazel monorepo.
 
-## Code ownership
+### Code ownership
 
-* [Github's CODEOWNERS](https://help.github.com/articles/about-codeowners/) can restrict who can approve a pull request that affects a given part of a monorepo
-* [Chromium's OWNERS file](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md#OWNERS-files) inspired Github's CODEOWNERS
+* [Github's CODEOWNERS](https://help.github.com/articles/about-codeowners/) can restrict who can approve a pull request that affects a given part of a monorepo.
+* [Chromium's OWNERS file](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md#OWNERS-files) inspired Github's CODEOWNERS.
 
 ## Notable public monorepos
 
@@ -86,5 +103,11 @@ by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-py
 ## Migration tools
 
 * [Bazel's migration-tooling](https://github.com/bazelbuild/migration-tooling) repository.
-* [Gazelle](https://github.com/bazelbuild/rules_go#generating-build-files) generates Bazel BUILD files automatically for Go packages
-* [tomono](https://github.com/unravelin/tomono) imports an existing set of Git repositories into a monorepo
+* [Gazelle](https://github.com/bazelbuild/rules_go#generating-build-files) generates Bazel BUILD files automatically for Go packages.
+* [tomono](https://github.com/unravelin/tomono) imports an existing set of Git repositories into a monorepo.
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)]("http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Uriel Corfa has waived all copyright and related or neighboring rights to this work.
