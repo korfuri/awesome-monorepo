@@ -11,7 +11,6 @@ by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-py
 * [Pants](http://www.pantsbuild.org/) is a monorepo-oriented build system, used by Twitter, Foursquare and multiple other companies.
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
 * [Lerna](https://lernajs.io/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
-* [Syncpack](https://github.com/JamieMason/syncpack) allows managing multiple package.json files in Lerna Monorepos.
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 * [Symplify\Monorepo](https://github.com/Symplify/Monorepo) is a PHP monorepo management tool 
@@ -20,6 +19,11 @@ by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-py
 
 * [oao](https://github.com/guigrpa/oao)
 * [FBShipIt](https://github.com/facebook/fbshipit)
+* [Syncpack](https://github.com/JamieMason/syncpack) allows managing multiple package.json files in Lerna Monorepos.
+
+## Good reads
+
+* [gomonorepo](https://gomonorepo.org/) covers tooling and concepts of monorepos, centered around PHP.
 
 ## Version control systems & add-ons
 
@@ -41,6 +45,8 @@ by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-py
 * [Git LFS](https://git-lfs.github.com/) improves the handling of large files in Git.
 * [GVFS](https://github.com/Microsoft/GVFS) virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.
 * [SlothFS](https://gerrit.googlesource.com/gitfs/+/HEAD/docs/manual.md) is similar to GVFS, but read-only. It works on Linux and OSX.
+* [git subtree](https://github.com/apenwarr/git-subtree) merges and splits subtrees from your project into subprojects and back.
+    * [git subsplit](https://github.com/dflydev/git-subsplit) automates and simplifies the process of managing one-way read-only subtree splits.
 
 #### Scaling info
 
