@@ -39,6 +39,7 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 ## Good reads
 
 * [gomonorepo](https://gomonorepo.org/) covers tooling and concepts of monorepos, centered around PHP.
+* [Why Google Stores Billions of Lines of Code in a Single Repository](https://research.google.com/pubs/pub45424.html)
 
 ## Version control systems & add-ons
 
@@ -82,12 +83,14 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 
 ### Code reviews
 
+* [Pull Review](https://github.com/imsky/pull-review/) Hubot plugin to automate pull reviews with lots of configuration options.
 * [Rietveld](https://github.com/rietveld-codereview/rietveld) is a code review tool by Google used by Chromium.
 
 ### CI tools
 
 * [Incremental CI in Jenkins with Bazel](https://www.kchodorow.com/blog/2015/10/15/one-weird-trick-for-fast-ci/), article by Kristina Chodorow (Bazel team).
 * [bazel-travis](https://github.com/korfuri/bazel-travis) is a minimal setup to use Travis CI in a Bazel monorepo.
+* [buildpipe](https://github.com/ksindi/buildpipe) is a tool to dynamically generate Buildkite pipelines by looking at changes in projects.
 
 ### Code ownership
 
