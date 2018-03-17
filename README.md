@@ -109,6 +109,7 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 * [Bazel's migration-tooling](https://github.com/bazelbuild/migration-tooling) repository.
 * [Gazelle](https://github.com/bazelbuild/rules_go#generating-build-files) generates Bazel BUILD files automatically for Go packages.
 * [tomono](https://github.com/unravelin/tomono) imports an existing set of Git repositories into a monorepo.
+* [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) contains a set of tools for building and splitting a monolithic repository.
 
 ## License
 
