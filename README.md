@@ -103,6 +103,7 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 * [Foursquare's opensource projects](https://github.com/foursquare/fsqio)
 * [Stellar's Go monorepo](https://github.com/stellar/go)
 * [Habitat's monorepo](https://github.com/habitat-sh/habitat)
+* [startup-os monorepo: working examples for Google's Open Source tools (bazel, etc) in a monorepo](https://github.com/google/startup-os)
 
 ## Migration tools
 
