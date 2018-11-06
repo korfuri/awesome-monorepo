@@ -29,6 +29,7 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 * [Symplify\Monorepo](https://github.com/Symplify/Monorepo) is a PHP monorepo management tool.
+* [GitLab CI](https://gitlab.com/gitlab-org/gitlab-ce/issues/19232) 11.4 supports running steps based on path changes.
 
 ## Repository management tools
 
