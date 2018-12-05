@@ -27,6 +27,7 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
 * [Lerna](https://lernajs.io/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
+* [wsx](https://github.com/c-neves/wsx) yarn run for monorepos.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 * [Symplify\Monorepo](https://github.com/Symplify/Monorepo) is a PHP monorepo management tool.
 
@@ -36,6 +37,7 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 * [FBShipIt](https://github.com/facebook/fbshipit)
 * [Syncpack](https://github.com/JamieMason/syncpack) allows managing multiple package.json files in Lerna Monorepos.
 * [wsrun](https://github.com/whoeverest/wsrun) allows running a command in each package of a Yarn workspaces monorepo.
+* [wsx](https://github.com/c-neves/wsx) yarn run for monorepos.
 
 ## Good reads
 
