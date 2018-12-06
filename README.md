@@ -21,6 +21,7 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 
 ## Build systems & dependency management tools
 
+* [baur](https://github.com/simplesurance/baur) builds only changed applications in a monorepo branch and manages build artifacts
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel)
 * [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
 * [Pants](http://www.pantsbuild.org/) is a monorepo-oriented build system, used by Twitter, Foursquare and multiple other companies.
