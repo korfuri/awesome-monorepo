@@ -29,6 +29,7 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 * [Symplify\Monorepo](https://github.com/Symplify/Monorepo) is a PHP monorepo management tool.
+* [Please](https://please.build/index.html) is a cross-language build system with an emphasis on high performance, extensibility and reproducibility.
 
 ## Repository management tools
 
