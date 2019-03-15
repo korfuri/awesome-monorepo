@@ -29,6 +29,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 * [Symplify\Monorepo](https://github.com/Symplify/Monorepo) is a PHP monorepo management tool.
+* [Bolt Pkg](https://github.com/boltpkg/bolt) is a super-powered JavaScript project management.
 
 ## Repository management tools
 
