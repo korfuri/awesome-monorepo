@@ -5,7 +5,7 @@ architectures. Monorepos, short for mono-repositories, are
 repositories that contain multiple projects, usually related to each
 other.
 
-Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python).
+Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 
 ## Contents
 
@@ -13,8 +13,8 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 * [Repository management tools](#repository-management-tools)
 * [Good reads](#good-reads)
 * [Version control systems & add-ons](#version-control-systems--add-ons)
-    * [Git](#git)
-	* [Mercurial](#mercurial)
+  * [Git](#git)
+  * [Mercurial](#mercurial)
 * [Development process tools](#development-process-tools)
 * [Notable public monorepos](#notable-public-monorepos)
 * [Migration tools](#migration-tools)
@@ -23,13 +23,15 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel)
 * [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
+* [Please](https://please.build/index.html) a cross-language build system with an emphasis on high performance, extensibility and reproduceability.
 * [Pants](http://www.pantsbuild.org/) is a monorepo-oriented build system, used by Twitter, Foursquare and multiple other companies.
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
+* [pnpm](https://pnpm.js.org/en/) is a JavaScript dependency management tool that supports monorepos through a set of dedicated commands called `pnpm multi`.
 * [Lerna](https://lernajs.io/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
-* [Symplify\Monorepo](https://github.com/Symplify/Monorepo) is a PHP monorepo management tool.
 * [GitLab CI](https://gitlab.com/gitlab-org/gitlab-ce/issues/19232) 11.4 supports running steps based on path changes.
+* [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) is a PHP monorepo management tool.
 
 ## Repository management tools
 
@@ -62,7 +64,7 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 	* [2](https://www.atlassian.com/blog/git/handle-big-repositories-git)
 * [Git LFS](https://git-lfs.github.com/) improves the handling of large files in Git.
 * [GVFS](https://github.com/Microsoft/GVFS) virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.
-* [SlothFS](https://gerrit.googlesource.com/gitfs/+/HEAD/docs/manual.md) is similar to GVFS, but read-only. It works on Linux and OSX.
+* [SlothFS](https://gerrit.googlesource.com/gitfs/+/HEAD/docs/manual.md) is similar to GVFS, but read-only. It works on Linux and macOS.
 * [git subtree](https://github.com/apenwarr/git-subtree) merges and splits subtrees from your project into subprojects and back.
     * [git subsplit](https://github.com/dflydev/git-subsplit) automates and simplifies the process of managing one-way read-only subtree splits.
 
@@ -93,11 +95,13 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 * [Incremental CI in Jenkins with Bazel](https://www.kchodorow.com/blog/2015/10/15/one-weird-trick-for-fast-ci/), article by Kristina Chodorow (Bazel team).
 * [bazel-travis](https://github.com/korfuri/bazel-travis) is a minimal setup to use Travis CI in a Bazel monorepo.
 * [buildpipe](https://github.com/ksindi/buildpipe) is a tool to dynamically generate Buildkite pipelines by looking at changes in projects.
+* [Codefresh](https://codefresh.io/) is a CI/CD platform for Docker/Kubernetes that has native [Monorepo support](https://codefresh.io/continuous-integration/using-codefresh-with-mono-repos/)
+* [CI/CD for Microservices Using Monorepos](http://blog.shippable.com/ci/cd-of-microservices-using-mono-repos), a post describing a Shippable.com build designed for trigerring builds specific to the microservice that has actually been modified and ones depending on it.   
 
 ### Code ownership
 
-* [Github's CODEOWNERS](https://help.github.com/articles/about-codeowners/) can restrict who can approve a pull request that affects a given part of a monorepo.
-* [Chromium's OWNERS file](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md#OWNERS-files) inspired Github's CODEOWNERS.
+* [GitHub's CODEOWNERS](https://help.github.com/articles/about-codeowners/) can restrict who can approve a pull request that affects a given part of a monorepo.
+* [Chromium's OWNERS file](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md#OWNERS-files) inspired GitHub's CODEOWNERS.
 
 ## Notable public monorepos
 
@@ -112,9 +116,16 @@ Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/a
 * [Gazelle](https://github.com/bazelbuild/rules_go#generating-build-files) generates Bazel BUILD files automatically for Go packages.
 * [tomono](https://github.com/unravelin/tomono) imports an existing set of Git repositories into a monorepo.
 * [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) contains a set of tools for building and splitting a monolithic repository.
+* [Fastlane monorepo migration tools](https://github.com/fastlane/monorepo) tools for migrating code and github issues. Specific for fastlane so requires some code changes to use
+
+## Development Workflows
+
+* [Trunk Based Development](https://trunkbaseddevelopment.com), a source-control branching model, where developers collaborate on code in a single branch called ‘trunk’, resist any pressure to create other long-lived development branches by employing documented techniques. They therefore avoid merge hell, do not break the build, and live happily ever after.
+* [Branch By Abstraction](https://www.branchbyabstraction.com), is a set-piece technique to effect a ‘longer to complete’ change in the trunk.
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)]("http://creativecommons.org/publicdomain/zero/1.0/)
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)]("http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Uriel Corfa has waived all copyright and related or neighboring rights to this work.
