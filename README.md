@@ -21,6 +21,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 
 ## Build systems & dependency management tools
 
+* [baur](https://github.com/simplesurance/baur) builds only changed applications in a monorepo branch and manages build artifacts
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel)
 * [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
 * [Please](https://please.build/index.html) a cross-language build system with an emphasis on high performance, extensibility and reproduceability.
