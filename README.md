@@ -92,6 +92,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [Incremental CI in Jenkins with Bazel](https://www.kchodorow.com/blog/2015/10/15/one-weird-trick-for-fast-ci/), article by Kristina Chodorow (Bazel team).
 * [bazel-travis](https://github.com/korfuri/bazel-travis) is a minimal setup to use Travis CI in a Bazel monorepo.
 * [buildpipe](https://github.com/ksindi/buildpipe) is a tool to dynamically generate Buildkite pipelines by looking at changes in projects.
+* [CI/CD for Microservices Using Monorepos](http://blog.shippable.com/ci/cd-of-microservices-using-mono-repos), a post describing a Shippable.com build designed for trigerring builds specific to the microservice that has actually been modified and ones depending on it.   
 
 ### Code ownership
 
