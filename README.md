@@ -109,6 +109,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [Stellar's Go monorepo](https://github.com/stellar/go)
 * [Habitat's monorepo](https://github.com/habitat-sh/habitat)
 * [startup-os monorepo: working examples for Google's Open Source tools (bazel, etc) in a monorepo](https://github.com/google/startup-os)
+* [Entria's Full Stack Playground Monorepo](https://github.com/entria/entria-fullstack)
 
 ## Migration tools
 
