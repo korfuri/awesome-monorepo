@@ -29,7 +29,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [Lerna](https://lernajs.io/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
-* [Symplify\Monorepo](https://github.com/Symplify/Monorepo) is a PHP monorepo management tool.
+* [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) is a PHP monorepo management tool.
 
 ## Repository management tools
 
