@@ -21,14 +21,19 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 
 ## Build systems & dependency management tools
 
+* [baur](https://github.com/simplesurance/baur) builds only changed applications in a monorepo branch and manages build artifacts
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel)
 * [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
+* [Please](https://please.build/index.html) a cross-language build system with an emphasis on high performance, extensibility and reproduceability.
 * [Pants](http://www.pantsbuild.org/) is a monorepo-oriented build system, used by Twitter, Foursquare and multiple other companies.
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
+* [pnpm](https://pnpm.js.org/en/) is a JavaScript dependency management tool that supports monorepos through a set of dedicated commands called `pnpm multi`.
 * [Lerna](https://lernajs.io/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
-* [Symplify\Monorepo](https://github.com/Symplify/Monorepo) is a PHP monorepo management tool.
+* [Bolt Pkg](https://github.com/boltpkg/bolt) is a super-powered JavaScript project management.
+* [GitLab CI](https://gitlab.com/gitlab-org/gitlab-ce/issues/19232) 11.4 supports running steps based on path changes.
+* [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) is a PHP monorepo management tool.
 
 ## Repository management tools
 
@@ -92,6 +97,8 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [Incremental CI in Jenkins with Bazel](https://www.kchodorow.com/blog/2015/10/15/one-weird-trick-for-fast-ci/), article by Kristina Chodorow (Bazel team).
 * [bazel-travis](https://github.com/korfuri/bazel-travis) is a minimal setup to use Travis CI in a Bazel monorepo.
 * [buildpipe](https://github.com/ksindi/buildpipe) is a tool to dynamically generate Buildkite pipelines by looking at changes in projects.
+* [Codefresh](https://codefresh.io/) is a CI/CD platform for Docker/Kubernetes that has native [Monorepo support](https://codefresh.io/continuous-integration/using-codefresh-with-mono-repos/)
+* [CI/CD for Microservices Using Monorepos](http://blog.shippable.com/ci/cd-of-microservices-using-mono-repos), a post describing a Shippable.com build designed for trigerring builds specific to the microservice that has actually been modified and ones depending on it.   
 
 ### Code ownership
 
@@ -105,6 +112,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [Habitat's monorepo](https://github.com/habitat-sh/habitat)
 * [startup-os monorepo: working examples for Google's Open Source tools (bazel, etc) in a monorepo](https://github.com/google/startup-os)
 * [M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform](https://github.com/m3db/m3)
+* [Entria's Full Stack Playground Monorepo](https://github.com/entria/entria-fullstack)
 
 ## Migration tools
 
@@ -112,6 +120,12 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [Gazelle](https://github.com/bazelbuild/rules_go#generating-build-files) generates Bazel BUILD files automatically for Go packages.
 * [tomono](https://github.com/unravelin/tomono) imports an existing set of Git repositories into a monorepo.
 * [shopsys/monorepo-tools](https://github.com/shopsys/monorepo-tools) contains a set of tools for building and splitting a monolithic repository.
+* [Fastlane monorepo migration tools](https://github.com/fastlane/monorepo) tools for migrating code and github issues. Specific for fastlane so requires some code changes to use
+
+## Development Workflows
+
+* [Trunk Based Development](https://trunkbaseddevelopment.com), a source-control branching model, where developers collaborate on code in a single branch called ‘trunk’, resist any pressure to create other long-lived development branches by employing documented techniques. They therefore avoid merge hell, do not break the build, and live happily ever after.
+* [Branch By Abstraction](https://www.branchbyabstraction.com), is a set-piece technique to effect a ‘longer to complete’ change in the trunk.
 
 ## License
 
