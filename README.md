@@ -107,6 +107,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 
 ## Notable public monorepos
 
+* [Linux kernel](https://github.com/torvalds/linux), the monorepo for which Git itself was developed.
 * [Foursquare's opensource projects](https://github.com/foursquare/fsqio)
 * [Stellar's Go monorepo](https://github.com/stellar/go)
 * [Habitat's monorepo](https://github.com/habitat-sh/habitat)
