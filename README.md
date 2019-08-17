@@ -73,7 +73,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [SlothFS](https://gerrit.googlesource.com/gitfs/+/HEAD/docs/manual.md) is similar to GVFS, but read-only. It works on Linux and macOS.
 * [git subtree](https://github.com/apenwarr/git-subtree) merges and splits subtrees from your project into subprojects and back.
     * [git subsplit](https://github.com/dflydev/git-subsplit) automates and simplifies the process of managing one-way read-only subtree splits.
-* [splitsh-lite](https://github.com/splitsh/lite) very fast git subtree alternative to splits subtrees from your project into subprojects.
+* [splitsh-lite](https://github.com/splitsh/lite) is a very fast git subtree alternative to splits subtrees from your project into subprojects.
 
 #### Scaling info
 
