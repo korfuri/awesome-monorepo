@@ -37,7 +37,6 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) is a PHP monorepo management tool.
 * [Spago](https://github.com/spacchetti/spago) is a PureScript package manager and build tool powered by Dhall and package-sets.
 
-
 ## Repository management tools
 
 * [oao](https://github.com/guigrpa/oao)
