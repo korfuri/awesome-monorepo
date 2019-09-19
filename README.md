@@ -24,7 +24,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [baur](https://github.com/simplesurance/baur) builds only changed applications in a monorepo branch and manages build artifacts
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel)
 * [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
-* [Nx](https:/nx.dev/) Extensible Dev Tools for Monorepos (TypeScript).
+* [Nx](https:/nx.dev/) is a build system for TypeScript monorepos and a set of monorepo management tools.
 * [Please](https://please.build/index.html) a cross-language build system with an emphasis on high performance, extensibility and reproduceability.
 * [Pants](http://www.pantsbuild.org/) is a monorepo-oriented build system, used by Twitter, Foursquare and multiple other companies.
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
