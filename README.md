@@ -24,7 +24,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [baur](https://github.com/simplesurance/baur) builds only changed applications in a monorepo branch and manages build artifacts
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel)
 * [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
-* [Nx](https:/nx.dev/) is a build system for TypeScript monorepos and a set of monorepo management tools.
+* [Nx](https://nx.dev/) is a build system for TypeScript monorepos and a set of monorepo management tools.
 * [Please](https://please.build/index.html) a cross-language build system with an emphasis on high performance, extensibility and reproduceability.
 * [Pants](http://www.pantsbuild.org/) is a monorepo-oriented build system, used by Twitter, Foursquare and multiple other companies.
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
@@ -104,7 +104,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [bazel-travis](https://github.com/korfuri/bazel-travis) is a minimal setup to use Travis CI in a Bazel monorepo.
 * [buildpipe](https://github.com/ksindi/buildpipe) is a tool to dynamically generate Buildkite pipelines by looking at changes in projects.
 * [Codefresh](https://codefresh.io/) is a CI/CD platform for Docker/Kubernetes that has native [Monorepo support](https://codefresh.io/continuous-integration/using-codefresh-with-mono-repos/)
-* [CI/CD for Microservices Using Monorepos](http://blog.shippable.com/ci/cd-of-microservices-using-mono-repos), a post describing a Shippable.com build designed for trigerring builds specific to the microservice that has actually been modified and ones depending on it.   
+* [CI/CD for Microservices Using Monorepos](http://blog.shippable.com/ci/cd-of-microservices-using-mono-repos), a post describing a Shippable.com build designed for trigerring builds specific to the microservice that has actually been modified and ones depending on it.
 
 ### Code ownership
 
