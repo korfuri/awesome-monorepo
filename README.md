@@ -72,7 +72,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [Git LFS](https://git-lfs.github.com/) improves the handling of large files in Git.
 * [GVFS](https://github.com/Microsoft/GVFS) virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.
 * [SlothFS](https://gerrit.googlesource.com/gitfs/+/HEAD/docs/manual.md) is similar to GVFS, but read-only. It works on Linux and macOS.
-* [git subtree](https://github.com/apenwarr/git-subtree) merges and splits subtrees from your project into subprojects and back.
+* [git subtree](https://github.com/apenwarr/git-subtree) merges and splits subtrees from your project into subprojects and back. Part of Git since version 1.7.
     * [git subsplit](https://github.com/dflydev/git-subsplit) automates and simplifies the process of managing one-way read-only subtree splits.
 * [splitsh-lite](https://github.com/splitsh/lite) is a very fast git subtree alternative to splits subtrees from your project into subprojects.
 
