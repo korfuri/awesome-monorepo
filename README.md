@@ -59,16 +59,16 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 #### Tools
 
 * [Git shallow clones](https://git-scm.com/docs/git-clone) let you clone only part of your Git history.
-	* [1](https://www.perforce.com/blog/git-beyond-basics-using-shallow-clones)
-	* [2](https://www.atlassian.com/blog/git/handle-big-repositories-git)
-	* [3](https://blogs.gnome.org/simos/2009/04/18/git-clones-vs-shallow-git-clones/)
+	* [How to Use Git Shallow Clone to Improve Performance](https://www.perforce.com/blog/git-beyond-basics-using-shallow-clones)
+	* [How to handle big repositories with Git](https://www.atlassian.com/blog/git/handle-big-repositories-git)
+	* [Git clones vs Shallow Git clones](https://blogs.gnome.org/simos/2009/04/18/git-clones-vs-shallow-git-clones/)
 * [Git filter-branch](https://git-scm.com/docs/git-filter-branch) let you rewrite a repository's history and prune branches.
-	* [1](https://www.atlassian.com/blog/git/handle-big-repositories-git)
+	* [How to handle big repositories with Git](https://www.atlassian.com/blog/git/handle-big-repositories-git)
 * [Git clone --single-branch](https://git-scm.com/docs/git-clone)
-	* [1](https://www.atlassian.com/blog/git/handle-big-repositories-git)
+	* [How to handle big repositories with Git](https://www.atlassian.com/blog/git/handle-big-repositories-git)
 * [Git sparse-checkout](https://git-scm.com/docs/git-read-tree/)
-	* [1](https://lakehanne.github.io/git-sparse-checkout)
-	* [2](https://www.atlassian.com/blog/git/handle-big-repositories-git)
+	* [Cloning specific folders from git](https://lakehanne.github.io/git-sparse-checkout)
+	* [How to handle big repositories with Git](https://www.atlassian.com/blog/git/handle-big-repositories-git)
 * [Git LFS](https://git-lfs.github.com/) improves the handling of large files in Git.
 * [GVFS](https://github.com/Microsoft/GVFS) virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.
 * [SlothFS](https://gerrit.googlesource.com/gitfs/+/HEAD/docs/manual.md) is similar to GVFS, but read-only. It works on Linux and macOS.
