@@ -43,6 +43,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [FBShipIt](https://github.com/facebook/fbshipit)
 * [Syncpack](https://github.com/JamieMason/syncpack) allows managing multiple package.json files in Lerna Monorepos.
 * [wsrun](https://github.com/whoeverest/wsrun) allows running a command in each package of a Yarn workspaces monorepo.
+* [monorepo-run](https://github.com/Akryum/monorepo-run) is a collection of helpers to run scripts in each package of a yarn monorepo with a separated pane per package.
 
 ## Good reads
 
