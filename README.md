@@ -30,6 +30,7 @@ Inspired by [https://github.com/vinta/awesome-python](vinta/awesome-python).
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
 * [pnpm](https://pnpm.js.org/en/) is a JavaScript dependency management tool that supports monorepos through a set of dedicated commands called `pnpm multi`.
 * [Lerna](https://lerna.js.org/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
+* [Bit](https://github.com/teambit/bit)a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 * [Bolt Pkg](https://github.com/boltpkg/bolt) is a super-powered JavaScript project management.
