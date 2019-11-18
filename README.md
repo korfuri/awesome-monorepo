@@ -5,7 +5,7 @@ architectures. Monorepos, short for mono-repositories, are
 repositories that contain multiple projects, usually related to each
 other.
 
-Inspired by [https://github.com/vinta/awesome-python](https://github.com/vinta/awesome-python).
+Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 
 ## Contents
 
