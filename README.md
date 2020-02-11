@@ -23,6 +23,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 
 * [baur](https://github.com/simplesurance/baur) builds only changed applications in a monorepo branch and manages build artifacts
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel)
+* [brick](https://github.com/tmrowco/brick) is a build tool for monorepos based on Docker.
 * [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
 * [Nx](https://nx.dev/) is a build system for TypeScript monorepos and a set of monorepo management tools.
 * [Please](https://please.build/index.html) a cross-language build system with an emphasis on high performance, extensibility and reproduceability.
