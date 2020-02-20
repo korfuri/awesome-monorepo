@@ -45,8 +45,8 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [Syncpack](https://github.com/JamieMason/syncpack) allows managing multiple package.json files in Lerna Monorepos.
 * [wsrun](https://github.com/whoeverest/wsrun) allows running a command in each package of a Yarn workspaces monorepo.
 * [monorepo-run](https://github.com/Akryum/monorepo-run) is a collection of helpers to run scripts in each package of a yarn monorepo with a separated pane per package.
-* [Builder](https://github.com/FormidableLabs/builder) is a tool that makes it possible ship the same scripts across projects. For example share build and testing scripts across projects.
-* [Lank](https://github.com/FormidableLabs/lank) is a tool that "links" packages together (f.e. in a monorepo) using automatic configuration of `NODE_PATH` instead of using symlinks like other tools. Lank also allows you to run the same commands across all (or subsets of all) packages.
+* [Builder](https://github.com/FormidableLabs/builder) is a tool that makes it possible to ship the same scripts across projects in a Node.js monorepo. For example, share build and testing scripts across projects.
+* [Lank](https://github.com/FormidableLabs/lank) is a tool that links packages together in a Node.js monorepo using automatic configuration of `NODE_PATH` instead of symlinks. Lank also allows you to run the same commands across all (or subsets of all) packages.
 
 ## Good reads
 
