@@ -79,6 +79,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [git subtree](https://github.com/apenwarr/git-subtree) merges and splits subtrees from your project into subprojects and back. Part of Git since version 1.7.
     * [git subsplit](https://github.com/dflydev/git-subsplit) automates and simplifies the process of managing one-way read-only subtree splits.
 * [splitsh-lite](https://github.com/splitsh/lite) is a very fast git subtree alternative to splits subtrees from your project into subprojects.
+* [josh](https://github.com/esrlabs/josh) is a git server proxy enabling on-the-fly virtualization of repositories.
 
 #### Scaling info
 
