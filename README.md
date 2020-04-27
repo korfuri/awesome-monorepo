@@ -82,6 +82,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
     * [git subsplit](https://github.com/dflydev/git-subsplit) automates and simplifies the process of managing one-way read-only subtree splits.
 * [splitsh-lite](https://github.com/splitsh/lite) is a very fast git subtree alternative to splits subtrees from your project into subprojects.
 * [josh](https://github.com/esrlabs/josh) is a git server proxy enabling on-the-fly virtualization of repositories.
+* [go-diff](https://github.com/dstreamcloud/go-diff) is a handy tool analyzes which packages needed to be rebuilt due to changes.
 
 #### Scaling info
 
