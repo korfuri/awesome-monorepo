@@ -38,6 +38,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) is a PHP monorepo management tool.
 * [Spago](https://github.com/spacchetti/spago) is a PureScript package manager and build tool powered by Dhall and package-sets.
 * [Tainted](https://github.com/kynrai/tainted) is a tool to determine which Go packages need to be rebuilt in a monorepo.
+* [Nix](https://github.com/NixOS/nix) is a package and distribution build tool with remote caching, predominately used by NixOS.
 
 ## Repository management tools
 
@@ -127,6 +128,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Metrics Platform](https://github.com/m3db/m3)
 * [Entria's Full Stack Playground Monorepo](https://github.com/entria/entria-fullstack)
 * [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/)
+* [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/)
 
 ## Migration tools
 
