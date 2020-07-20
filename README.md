@@ -118,6 +118,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 
 * [GitHub's CODEOWNERS](https://help.github.com/articles/about-codeowners/) can restrict who can approve a pull request that affects a given part of a monorepo.
 * [Chromium's OWNERS file](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md#OWNERS-files) inspired GitHub's CODEOWNERS.
+* [Write Guard](https://github.com/geritol/write-guard) uses GitHub actions to enforce file-level write access to a monorepo.
 
 ## Notable public monorepos
 
