@@ -106,6 +106,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 
 * [Pull Review](https://github.com/imsky/pull-review/) Hubot plugin to automate pull reviews with lots of configuration options.
 * [Rietveld](https://github.com/rietveld-codereview/rietveld) is a code review tool by Google used by Chromium.
+* [API Extractor](https://api-extractor.com/) is used to detect and review API signatures for TypeScript libraries, and also for publishing a multi-package API reference.
 
 ### CI tools
 
