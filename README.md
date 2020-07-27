@@ -122,6 +122,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 
 ## Notable public monorepos
 
+* [Node.js API Starter Kit](https://github.com/kriasoft/nodejs-api-starter) - Yarn v2 based monorepo setup with GraphQL API, PostgreSQL backend
 * [Foursquare's opensource projects](https://github.com/foursquare/fsqio)
 * [Stellar's Go monorepo](https://github.com/stellar/go)
 * [Habitat's monorepo](https://github.com/habitat-sh/habitat)
