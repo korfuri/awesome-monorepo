@@ -23,33 +23,34 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 
 * [baur](https://github.com/simplesurance/baur) builds only changed applications in a monorepo branch and manages build artifacts
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel)
-* [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
-* [Nx](https://nx.dev/) is a build system for TypeScript monorepos and a set of monorepo management tools.
-* [Please](https://please.build/index.html) a cross-language build system with an emphasis on high performance, extensibility and reproduceability.
-* [Pants](http://www.pantsbuild.org/) is a monorepo-oriented build system, used by Twitter, Foursquare and multiple other companies.
-* [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
-* [pnpm](https://pnpm.js.org/en/) is a JavaScript dependency management tool that supports monorepos through a set of dedicated commands called `pnpm multi`.
-* [Lerna](https://lerna.js.org/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
 * [Bit](https://github.com/teambit/bit) is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
-* [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
-* [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 * [Bolt Pkg](https://github.com/boltpkg/bolt) is a super-powered JavaScript project management.
+* [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
 * [GitLab CI](https://gitlab.com/gitlab-org/gitlab-ce/issues/19232) 11.4 supports running steps based on path changes.
-* [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) is a PHP monorepo management tool.
-* [Spago](https://github.com/spacchetti/spago) is a PureScript package manager and build tool powered by Dhall and package-sets.
-* [Tainted](https://github.com/kynrai/tainted) is a tool to determine which Go packages need to be rebuilt in a monorepo.
+* [Lerna](https://lerna.js.org/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
+* [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 * [Nix](https://github.com/NixOS/nix) is a package and distribution build tool with remote caching, predominately used by NixOS.
+* [Nx](https://nx.dev/) is a build system for TypeScript monorepos and a set of monorepo management tools.
+* [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
+* [Pants](http://www.pantsbuild.org/) is a monorepo-oriented build system, used by Twitter, Foursquare and multiple other companies.
+* [Please](https://please.build/index.html) a cross-language build system with an emphasis on high performance, extensibility and reproduceability.
+* [pnpm](https://pnpm.js.org/en/) is a JavaScript dependency management tool that supports monorepos through a set of dedicated commands called `pnpm multi`.
+* [Rush Stack](https://rushstack.io/) is a family of tools geared towards large scale TypeScript monorepos, and based around the [Rush](https://rushjs.io/) build orchestrator
+* [Spago](https://github.com/spacchetti/spago) is a PureScript package manager and build tool powered by Dhall and package-sets.
+* [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) is a PHP monorepo management tool.
+* [Tainted](https://github.com/kynrai/tainted) is a tool to determine which Go packages need to be rebuilt in a monorepo.
+* [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
 
 ## Repository management tools
 
-* [oao](https://github.com/guigrpa/oao)
-* [FBShipIt](https://github.com/facebook/fbshipit)
-* [Syncpack](https://github.com/JamieMason/syncpack) allows managing multiple package.json files in Lerna Monorepos.
-* [wsrun](https://github.com/whoeverest/wsrun) allows running a command in each package of a Yarn workspaces monorepo.
-* [monorepo-run](https://github.com/Akryum/monorepo-run) is a collection of helpers to run scripts in each package of a yarn monorepo with a separated pane per package.
 * [Builder](https://github.com/FormidableLabs/builder) is a tool that makes it possible to ship the same scripts across projects in a Node.js monorepo. For example, share build and testing scripts across projects.
+* [FBShipIt](https://github.com/facebook/fbshipit)
 * [Lank](https://github.com/FormidableLabs/lank) is a tool that links packages together in a Node.js monorepo using automatic configuration of `NODE_PATH` instead of symlinks. Lank also allows you to run the same commands across all (or subsets of all) packages.
+* [monorepo-run](https://github.com/Akryum/monorepo-run) is a collection of helpers to run scripts in each package of a yarn monorepo with a separated pane per package.
+* [oao](https://github.com/guigrpa/oao)
+* [Syncpack](https://github.com/JamieMason/syncpack) allows managing multiple package.json files in Lerna Monorepos.
 * [Ultra Runner](https://github.com/folke/ultra-runner) is a smart script runner and build tool for Lerna, Pnpm, Rush and Yarn. Scripts run concurrently, using the dependency topology. Builds keep track of file changes and are skipped when possible.
+* [wsrun](https://github.com/whoeverest/wsrun) allows running a command in each package of a Yarn workspaces monorepo.
 
 ## Good reads
 
@@ -105,6 +106,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 
 * [Pull Review](https://github.com/imsky/pull-review/) Hubot plugin to automate pull reviews with lots of configuration options.
 * [Rietveld](https://github.com/rietveld-codereview/rietveld) is a code review tool by Google used by Chromium.
+* [API Extractor](https://api-extractor.com/) is used to detect and review API signatures for TypeScript libraries, and also for publishing a multi-package API reference.
 
 ### CI tools
 
