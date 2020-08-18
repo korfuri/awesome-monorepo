@@ -132,6 +132,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [Entria's Full Stack Playground Monorepo](https://github.com/entria/entria-fullstack)
 * [Berty's monorepo - React-native mobile App + Golang backend + Gomobile bridge + iOS & Android native drivers + Protobuf](https://github.com/berty/berty/)
 * [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/)
+* [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo)
 
 ## Migration tools
 
