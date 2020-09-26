@@ -44,7 +44,8 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 ## Repository management tools
 
 * [Builder](https://github.com/FormidableLabs/builder) is a tool that makes it possible to ship the same scripts across projects in a Node.js monorepo. For example, share build and testing scripts across projects.
-* [FBShipIt](https://github.com/facebook/fbshipit)
+* [FBShipIt](https://github.com/facebook/fbshipit) is a library written in Hack for copying commits from one repository to another.
+* [adeira/shipit](https://github.com/adeira/shipit) is a simplified JavaScript port of FBShipIt.
 * [Lank](https://github.com/FormidableLabs/lank) is a tool that links packages together in a Node.js monorepo using automatic configuration of `NODE_PATH` instead of symlinks. Lank also allows you to run the same commands across all (or subsets of all) packages.
 * [monorepo-run](https://github.com/Akryum/monorepo-run) is a collection of helpers to run scripts in each package of a yarn monorepo with a separated pane per package.
 * [oao](https://github.com/guigrpa/oao)
