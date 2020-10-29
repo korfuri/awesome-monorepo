@@ -94,8 +94,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 
 #### Tools
 
-* [hgwatchman](https://bitbucket.org/facebook/hgwatchman) and [Watchman](https://github.com/facebook/watchman), replaced by [fsmonitor](https://www.mercurial-scm.org/wiki/FsMonitorExtension) trigger partial, incremental builds when your files change
-* Facebook's [hg-experimental](https://bitbucket.org/facebook/hg-experimental/) extensions include better support for large repositories in Hg.
+* [Watchman](https://github.com/facebook/watchman), replaced by [fsmonitor](https://www.mercurial-scm.org/wiki/FsMonitorExtension) trigger partial, incremental builds when your files change
 
 #### Scaling info
 
