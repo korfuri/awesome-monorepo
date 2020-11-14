@@ -40,6 +40,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) is a PHP monorepo management tool.
 * [Tainted](https://github.com/kynrai/tainted) is a tool to determine which Go packages need to be rebuilt in a monorepo.
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
+* [Layer-pack](https://github.com/layer-pack/layer-pack) is a Webpack plugin allowing monorepo structures via inheritable npm packages/code layers & es6 glob imports.
 
 ## Repository management tools
 
