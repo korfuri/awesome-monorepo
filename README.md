@@ -86,6 +86,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [splitsh-lite](https://github.com/splitsh/lite) is a very fast git subtree alternative to splits subtrees from your project into subprojects.
 * [josh](https://github.com/esrlabs/josh) is a git server proxy enabling on-the-fly virtualization of repositories.
 * [go-diff](https://github.com/dstreamcloud/go-diff) is a handy tool analyzes which packages needed to be rebuilt due to changes.
+* [mgt](https://github.com/nikita-skobov/monorepo-git-tools) is a tool that enables easy bidirectional sync between multiple repositories via files that define how to remap a repository
 
 #### Scaling info
 
