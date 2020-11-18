@@ -27,6 +27,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [Bolt Pkg](https://github.com/boltpkg/bolt) is a super-powered JavaScript project management.
 * [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
 * [GitLab CI](https://gitlab.com/gitlab-org/gitlab-ce/issues/19232) 11.4 supports running steps based on path changes.
+* [Handpick](https://github.com/redaxmedia/handpick) Handpick conditional dependencies like a boss 
 * [Lerna](https://lerna.js.org/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 * [Nix](https://github.com/NixOS/nix) is a package and distribution build tool with remote caching, predominately used by NixOS.
