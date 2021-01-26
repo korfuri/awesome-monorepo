@@ -60,6 +60,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [Advantages and Disadvantages of a Monolithic Repository: A case study at Google](https://people.engr.ncsu.edu/ermurph3/papers/seip18.pdf)
 * [Why you should use a single repository for all your company’s projects](https://www.drmaciver.com/2016/10/why-you-should-use-a-single-repository-for-all-your-companys-projects/)
 * [Advantages of monorepos](https://danluu.com/monorepo/)
+* [Monorepos make inner-source come to life](https://kevingoslar.medium.com/monorepos-make-inner-source-come-to-life-bd1592b0cadf)
 
 ## Version control systems & add-ons
 
