@@ -61,7 +61,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [Why you should use a single repository for all your company’s projects](https://www.drmaciver.com/2016/10/why-you-should-use-a-single-repository-for-all-your-companys-projects/)
 * [Advantages of monorepos](https://danluu.com/monorepo/)
 * [Monorepos make inner-source come to life](https://kevingoslar.medium.com/monorepos-make-inner-source-come-to-life-bd1592b0cadf)
-* [What is a monorepo? (and Should You Use Them?)](https://semaphoreci.com/blog/what-is-monorepo)
+* [What is a monorepo? (and Should You Use Them?)](https://semaphoreci.com/blog/what-is-monorepo).
 
 ## Version control systems & add-ons
 
@@ -119,7 +119,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [buildpipe](https://github.com/jwplayer/buildpipe) is a tool to dynamically generate Buildkite pipelines by looking at changes in projects.
 * [Codefresh](https://codefresh.io/) is a CI/CD platform for Docker/Kubernetes that has native [Monorepo support](https://codefresh.io/continuous-integration/using-codefresh-with-mono-repos/)
 * [CI/CD for Microservices Using Monorepos](http://blog.shippable.com/ci/cd-of-microservices-using-mono-repos), a post describing a Shippable.com build designed for triggering builds specific to the microservice that has actually been modified and ones depending on it.
-* [Semaphore CI](https://semaphoreci.com) is a CI/CD platform with native [monorepo support](https://docs.semaphoreci.com/essentials/building-monorepo-projects/)
+* [Semaphore CI](https://semaphoreci.com) is a CI/CD platform with native [monorepo support](https://docs.semaphoreci.com/essentials/building-monorepo-projects/).
 
 ### Code ownership
 
