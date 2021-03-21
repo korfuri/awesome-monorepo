@@ -26,7 +26,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [Bit](https://github.com/teambit/bit) is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
 * [Bolt Pkg](https://github.com/boltpkg/bolt) is a super-powered JavaScript project management.
 * [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
-* [Garment](https://github.com/Farfetch/garment) is Farfetch's monorepo build system with centralized and customizable task management
+* [Garment](https://github.com/Farfetch/garment) is Farfetch's monorepo build system with centralized and customizable task management.
 * [GitLab CI](https://gitlab.com/gitlab-org/gitlab-ce/issues/19232) 11.4 supports running steps based on path changes.
 * [Lerna](https://lerna.js.org/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
