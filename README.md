@@ -44,6 +44,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [Versio](https://github.com/chaaz/versio) updates all version numbers in monorepo projects based on [conventional commits](https://www.conventionalcommits.org/), and can generate changelogs and tags.
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
 * [Layer-pack](https://github.com/layer-pack/layer-pack) is a Webpack plugin allowing monorepo structures via inheritable npm packages/code layers & es6 glob imports.
+* [Fynpo](https://www.electrode.io/fynpo/) is a JavaScript monorepo manager with some different approaches that solve the usual downsides of a monorepo workspace.
 
 ## Repository management tools
 
