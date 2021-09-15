@@ -66,7 +66,7 @@
 * [为什么你应该为你公司的所有项目使用一个单一的仓库？](https://www.drmaciver.com/2016/10/why-you-should-use-a-single-repository-for-all-your-companys-projects/)
 * [monorepo 的优势](https://danluu.com/monorepo/)
 * [Monorepos 使内心的源泉变得鲜活起来](https://kevingoslar.medium.com/monorepos-make-inner-source-come-to-life-bd1592b0cadf)
-* [什么用 monorepo？(以及你应该使用它们吗？)。](https://semaphoreci.com/blog/what-is-monorepo)
+* [什么是 monorepo？(以及你应该使用它们吗？)。](https://semaphoreci.com/blog/what-is-monorepo)
 * [为 Semaphore-CI 用户提供 Monorepos 的持续集成。](https://semaphoreci.com/blog/continuous-integration-monorepos)
 
 ## 版本控制系统和附加组件
