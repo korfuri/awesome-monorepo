@@ -87,14 +87,14 @@
 	* [从 Git 克隆特定文件夹](https://lakehanne.github.io/git-sparse-checkout)
 	* [如何用 Git 处理大型仓库](https://www.atlassian.com/blog/git/handle-big-repositories-git)
 * [Git LFS](https://git-lfs.github.com/) 改善了 Git 中对大文件的处理。
-* [GVFS](https://github.com/Microsoft/GVFS) 虚拟化你的 git repo 下面的文件系统，这样 git 和所有工具看到的似乎是一个正常的 repo，但 GVFS 只在需要时下载对象。仅适用 于Windows。
+* [GVFS](https://github.com/Microsoft/GVFS) 虚拟化你的 git repo 下面的文件系统，这样 git 和所有工具看到的似乎是一个正常的 repo，但 GVFS 只在需要时下载对象。仅适用 于Windows。 ![github star](https://img.shields.io/github/stars/Microsoft/GVFS.svg?style=social&label=Star)
 * [SlothFS](https://gerrit.googlesource.com/gitfs/+/HEAD/docs/manual.md) 与 GVFS 类似，但只读。它在 Linux 和 macOS 上工作。
-* [git subtree](https://github.com/apenwarr/git-subtree) 将你的项目中的子树合并和拆分到子项目中，然后再返回。从1.7版本开始成为 Git 的一部分。
-    * [git subsplit](https://github.com/dflydev/git-subsplit) 自动并简化了管理单向只读子树分割的过程。
-* [splitsh-lite](https://github.com/splitsh/lite) 是一个非常快速的 git subtree 替代品，可以将项目中的子树分割成子项目。
-* [josh](https://github.com/esrlabs/josh) 是一个 git 服务器代理，可以实现仓库的即时虚拟化。
-* [go-diff](https://github.com/dstreamcloud/go-diff) 是一个方便的工具，可以分析哪些软件包由于变化而需要重建。
-* [mgt](https://github.com/nikita-skobov/monorepo-git-tools) 是一个工具，通过定义如何重新映射仓库的文件，使多个仓库之间的双向同步变得容易。
+* [git subtree](https://github.com/apenwarr/git-subtree) 将你的项目中的子树合并和拆分到子项目中，然后再返回。从1.7版本开始成为 Git 的一部分。 ![github star](https://img.shields.io/github/stars/apenwarr/git-subtree.svg?style=social&label=Star)
+    * [git subsplit](https://github.com/dflydev/git-subsplit) 自动并简化了管理单向只读子树分割的过程。 ![github star](https://img.shields.io/github/stars/dflydev/git-subsplit.svg?style=social&label=Star)
+* [splitsh-lite](https://github.com/splitsh/lite) 是一个非常快速的 git subtree 替代品，可以将项目中的子树分割成子项目。 ![github star](https://img.shields.io/github/stars/splitsh/lite.svg?style=social&label=Star)
+* [josh](https://github.com/esrlabs/josh) 是一个 git 服务器代理，可以实现仓库的即时虚拟化。 ![github star](https://img.shields.io/github/stars/esrlabs/josh.svg?style=social&label=Star)
+* [go-diff](https://github.com/dstreamcloud/go-diff) 是一个方便的工具，可以分析哪些软件包由于变化而需要重建。 ![github star](https://img.shields.io/github/stars/dstreamcloud/go-diff.svg?style=social&label=Star)
+* [mgt](https://github.com/nikita-skobov/monorepo-git-tools) 是一个工具，通过定义如何重新映射仓库的文件，使多个仓库之间的双向同步变得容易。 ![github star](https://img.shields.io/github/stars/nikita-skobov/monorepo-git-tools.svg?style=social&label=Star)
 
 #### 扩展信息
 
