@@ -59,7 +59,7 @@
 * [Ultra Runner](https://github.com/folke/ultra-runner) 是一个智能脚本运行器和 Lerna、Pnpm、Rush 和 Yarn 的构建工具。脚本同时运行，使用依赖性拓扑结构。构建过程会跟踪文件的变化，并在可能的情况下被跳过。 ![github star](https://img.shields.io/github/stars/folke/ultra-runner.svg?style=social&label=Star)
 * [wsrun](https://github.com/whoeverest/wsrun) 允许在Yarn workspaces monorepo 的每个包中运行一个命令。 ![github star](https://img.shields.io/github/stars/whoeverest/wsrun.svg?style=social&label=Star)
 
-## 好的读物
+## 一些好的参考文献
 
 * [为什么谷歌将数十亿行代码存储在一个存储库中？](https://research.google.com/pubs/pub45424.html)
 * [monorepo 的优势和劣势。谷歌的一个案例研究](https://people.engr.ncsu.edu/ermurph3/papers/seip18.pdf)
