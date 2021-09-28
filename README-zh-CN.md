@@ -12,7 +12,7 @@
 ## 内容
 
 * [构建系统和依赖性管理工具](#构建系统和依赖性管理工具)
-* [存储库管理工具](#存储库管理工具)
+* [仓库管理工具](#仓库管理工具)
 * [一些好的参考文献](#一些好的参考文献)
 * [版本控制系统和附加组件](#版本控制系统和附加组件)
   * [Git](#git)
@@ -47,7 +47,7 @@
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) 是一个 JavaScript 依赖性管理工具，通过工作空间支持 monorepo。 ![github star](https://img.shields.io/github/stars/yarnpkg/yarn.svg?style=social&label=Star)
 * [Layer-pack](https://github.com/layer-pack/layer-pack) 是一个 Webpack 插件，允许通过可继承的 npm 包/代码层和 es6 的 glob 导入来实现 monorepo 结构。 ![github star](https://img.shields.io/github/stars/layer-pack/layer-pack.svg?style=social&label=Star)
 
-## 存储库管理工具
+## 仓库管理工具
 
 * [Builder](https://github.com/FormidableLabs/builder) 是一个工具，它使得在 Node.js monorepo 中的各个项目之间运送相同的脚本成为可能。例如，跨项目共享构建和测试脚本。 ![github star](https://img.shields.io/github/stars/FormidableLabs/builder.svg?style=social&label=Star)
 * [FBShipIt](https://github.com/facebook/fbshipit) 是一个用 Hack 编写的库，用于将提交从一个仓库复制到另一个仓库。 ![github star](https://img.shields.io/github/stars/facebook/fbshipit.svg?style=social&label=Star)
@@ -61,7 +61,7 @@
 
 ## 一些好的参考文献
 
-* [为什么谷歌将数十亿行代码存储在一个存储库中？](https://research.google.com/pubs/pub45424.html)
+* [为什么谷歌将数十亿行代码存储在一个仓库中？](https://research.google.com/pubs/pub45424.html)
 * [monorepo 的优势和劣势。谷歌的一个案例研究](https://people.engr.ncsu.edu/ermurph3/papers/seip18.pdf)
 * [为什么你应该为你公司的所有项目使用一个单一的仓库？](https://www.drmaciver.com/2016/10/why-you-should-use-a-single-repository-for-all-your-companys-projects/)
 * [monorepo 的优势](https://danluu.com/monorepo/)
@@ -77,7 +77,7 @@
 
 * [Git浅层克隆](https://git-scm.com/docs/git-clone) 让你只克隆部分的Git历史。
 	* [如何使用 Git Shallow Clone 来提高性能](https://www.perforce.com/blog/git-beyond-basics-using-shallow-clones)
-	* [如何用Git处理大的存储库](https://www.atlassian.com/blog/git/handle-big-repositories-git)
+	* [如何用Git处理大的仓库](https://www.atlassian.com/blog/git/handle-big-repositories-git)
 	* [Git克隆与浅层Git克隆](https://blogs.gnome.org/simos/2009/04/18/git-clones-vs-shallow-git-clones/)
 * [Git filter-branch](https://git-scm.com/docs/git-filter-branch) 让你重写版本库的历史和修剪分支。
 	* [如何用 Git 处理大型仓库](https://www.atlassian.com/blog/git/handle-big-repositories-git)
@@ -92,13 +92,13 @@
 * [git subtree](https://github.com/apenwarr/git-subtree) 将你的项目中的子树合并和拆分到子项目中，然后再返回。从1.7版本开始成为 Git 的一部分。
     * [git subsplit](https://github.com/dflydev/git-subsplit) 自动并简化了管理单向只读子树分割的过程。
 * [splitsh-lite](https://github.com/splitsh/lite) 是一个非常快速的 git subtree 替代品，可以将项目中的子树分割成子项目。
-* [josh](https://github.com/esrlabs/josh) 是一个 git 服务器代理，可以实现存储库的即时虚拟化。
+* [josh](https://github.com/esrlabs/josh) 是一个 git 服务器代理，可以实现仓库的即时虚拟化。
 * [go-diff](https://github.com/dstreamcloud/go-diff) 是一个方便的工具，可以分析哪些软件包由于变化而需要重建。
-* [mgt](https://github.com/nikita-skobov/monorepo-git-tools) 是一个工具，通过定义如何重新映射存储库的文件，使多个存储库之间的双向同步变得容易。
+* [mgt](https://github.com/nikita-skobov/monorepo-git-tools) 是一个工具，通过定义如何重新映射仓库的文件，使多个仓库之间的双向同步变得容易。
 
 #### 扩展信息
 
-* Atlassian 的 [Git 中的 Monorepos](https://developer.atlassian.com/blog/2015/10/monorepos-in-git/) 和[如何在 Git 中处理大的存储库](https://www.atlassian.com/blog/git/handle-big-repositories-git)涵盖了 Git 的扩展选项。
+* Atlassian 的 [Git 中的 Monorepos](https://developer.atlassian.com/blog/2015/10/monorepos-in-git/) 和[如何在 Git 中处理大的仓库](https://www.atlassian.com/blog/git/handle-big-repositories-git)涵盖了 Git 的扩展选项。
 
 ### Mercurial
 
