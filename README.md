@@ -56,7 +56,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [Syncpack](https://github.com/JamieMason/syncpack) allows managing multiple package.json files in Lerna Monorepos.
 * [Ultra Runner](https://github.com/folke/ultra-runner) is a smart script runner and build tool for Lerna, Pnpm, Rush and Yarn. Scripts run concurrently, using the dependency topology. Builds keep track of file changes and are skipped when possible.
 * [wsrun](https://github.com/whoeverest/wsrun) allows running a command in each package of a Yarn workspaces monorepo.
-* [meta](https://github.com/mateodelnorte/meta) meta is a tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo!
+* [meta](https://github.com/mateodelnorte/meta) is a tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo.
 
 ## Good reads
 
