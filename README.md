@@ -29,6 +29,7 @@ English | [简体中文](./README-zh-CN.md)
 * [Bolt Pkg](https://github.com/boltpkg/bolt) is a super-powered JavaScript project management.
 * [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
 * [drkns](https://github.com/frantzmiccoli/drkns) is a simple and language agnostic monorepo build tool.
+* [Earthly](https://earthly.dev) is a CI/CD framework and a build tool that supports monorepos.
 * [Garment](https://github.com/Farfetch/garment) is Farfetch's monorepo build system with centralized and customizable task management.
 * [GitLab CI](https://gitlab.com/gitlab-org/gitlab-ce/issues/19232) 11.4 supports running steps based on path changes.
 * [Lerna](https://lerna.js.org/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
