@@ -127,7 +127,7 @@ English | [简体中文](./README-zh-CN.md)
 * [bazel-travis](https://github.com/korfuri/bazel-travis) is a minimal setup to use Travis CI in a Bazel monorepo.
 * [buildpipe](https://github.com/jwplayer/buildpipe) is a tool to dynamically generate Buildkite pipelines by looking at changes in projects.
 * [Codefresh](https://codefresh.io/) is a CI/CD platform for Docker/Kubernetes that has native [Monorepo support](https://codefresh.io/continuous-integration/using-codefresh-with-mono-repos/)
-* [CI/CD for Microservices Using Monorepos](http://blog.shippable.com/ci/cd-of-microservices-using-mono-repos), a post describing a Shippable.com build designed for triggering builds specific to the microservice that has actually been modified and ones depending on it.
+* [CI/CD for Microservices Using Monorepos](https://web.archive.org/web/20201109012429/http://blog.shippable.com/ci/cd-of-microservices-using-mono-repos), a post describing a Shippable.com build designed for triggering builds specific to the microservice that has actually been modified and ones depending on it.
 * [Semaphore CI](https://semaphoreci.com) is a CI/CD platform with native [monorepo support](https://docs.semaphoreci.com/essentials/building-monorepo-projects/).
 
 ### Code ownership
