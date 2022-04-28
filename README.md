@@ -66,6 +66,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 * [Monorepos make inner-source come to life](https://kevingoslar.medium.com/monorepos-make-inner-source-come-to-life-bd1592b0cadf)
 * [What is a monorepo? (and Should You Use Them?)](https://semaphoreci.com/blog/what-is-monorepo).
 * [Continuous Integration for Monorepos](https://semaphoreci.com/blog/continuous-integration-monorepos) for Semaphore-CI users.
+* [monorepo.tools](https://monorepo.tools) - Monorepos explained
 
 ## Version control systems & add-ons
 
