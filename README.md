@@ -7,6 +7,8 @@ other.
 
 Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 
+English | [简体中文](./README-zh-CN.md)
+
 ## Contents
 
 * [Build systems & dependency management tools](#build-systems--dependency-management-tools)
