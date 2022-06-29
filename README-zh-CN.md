@@ -46,6 +46,7 @@
 * [Versio](https://github.com/chaaz/versio) 根据 [conventional commits](https://www.conventionalcommits.org/) 更新 monorepo 项目中的所有版本号，并可以生成更新日志和标签。 ![github star](https://img.shields.io/github/stars/chaaz/versio.svg?style=social&label=Star)
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) 是一个 JavaScript 依赖性管理工具，通过工作空间支持 monorepo。 ![github star](https://img.shields.io/github/stars/yarnpkg/yarn.svg?style=social&label=Star)
 * [Layer-pack](https://github.com/layer-pack/layer-pack) 是一个 Webpack 插件，允许通过可继承的 npm 包/代码层和 es6 的 glob 导入来实现 monorepo 结构。 ![github star](https://img.shields.io/github/stars/layer-pack/layer-pack.svg?style=social&label=Star)
+* [Turborepo](https://github.com/vercel/turborepo) 是一个用于 JavaScript 和 TypeScript 代码库的高性能构建系统。 ![github star](https://img.shields.io/github/stars/vercel/turborepo.svg?style=social&label=Star)
 
 ## 仓库管理工具
 
@@ -58,6 +59,7 @@
 * [Syncpack](https://github.com/JamieMason/syncpack) 允许在 Lerna Monorepos 中管理多个 package.json 文件。 ![github star](https://img.shields.io/github/stars/JamieMason/syncpack.svg?style=social&label=Star)
 * [Ultra Runner](https://github.com/folke/ultra-runner) 是一个智能脚本运行器和 Lerna、Pnpm、Rush 和 Yarn 的构建工具。脚本同时运行，使用依赖性拓扑结构。构建过程会跟踪文件的变化，并在可能的情况下被跳过。 ![github star](https://img.shields.io/github/stars/folke/ultra-runner.svg?style=social&label=Star)
 * [wsrun](https://github.com/whoeverest/wsrun) 允许在Yarn workspaces monorepo 的每个包中运行一个命令。 ![github star](https://img.shields.io/github/stars/whoeverest/wsrun.svg?style=social&label=Star)
+* [meta](https://github.com/mateodelnorte/meta) 回答了在 mono repo 以及 many repos 之间进行选择的难题，那就是使用[meta](https://github.com/mateodelnorte/meta)来兼顾。 ![github star](https://img.shields.io/github/stars/mateodelnorte/meta.svg?style=social&label=Star)
 
 ## 一些好的参考文献
 
@@ -68,6 +70,7 @@
 * [Monorepos 使内心的源泉变得鲜活起来](https://kevingoslar.medium.com/monorepos-make-inner-source-come-to-life-bd1592b0cadf)
 * [什么是 monorepo？(以及你应该使用它吗？)。](https://semaphoreci.com/blog/what-is-monorepo)
 * [为 Semaphore-CI 用户提供 Monorepos 的持续集成。](https://semaphoreci.com/blog/continuous-integration-monorepos)
+* [monorepo.tools - Monorepos 的说明。](https://monorepo.tools/)
 
 ## 版本控制系统和附加组件
 
@@ -145,6 +148,7 @@
 * [Berty 的 monorepo - React-native 移动应用程序 + Golang 后端 + Gomobile bridge + iOS & Android 原生驱动 + Protobuf](https://github.com/berty/berty/) ![github star](https://img.shields.io/github/stars/berty/berty.svg?style=social&label=Star)
 * [NixOS 的软件包和模块的 monorepo 可用于增量构建和部署 Linux 机器。](https://github.com/NixOS/nixpkgs/) ![github star](https://img.shields.io/github/stars/NixOS/nixpkgs.svg?style=social&label=Star)
 * [Celo 的 monorepo（包括区块链、杂项工具、库、操作东西诸如 terraform 模块、文档等）](https://github.com/celo-org/celo-monorepo)。 ![github star](https://img.shields.io/github/stars/celo-org/celo-monorepo.svg?style=social&label=Star)
+* [ProtonMail 的 monorepo (Proton web 客户端: 邮件, 日历...)](https://github.com/ProtonMail/WebClients)
 
 ## 迁移工具
 
