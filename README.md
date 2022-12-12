@@ -94,6 +94,7 @@ English | [简体中文](./README-zh-CN.md)
 * [SlothFS](https://gerrit.googlesource.com/gitfs/+/HEAD/docs/manual.md) is similar to GVFS, but read-only. It works on Linux and macOS.
 * [git subtree](https://github.com/apenwarr/git-subtree) merges and splits subtrees from your project into subprojects and back. Part of Git since version 1.7.
     * [git subsplit](https://github.com/dflydev/git-subsplit) automates and simplifies the process of managing one-way read-only subtree splits.
+* [git subrepo](https://github.com/ingydotnet/git-subrepo) "clones" an external git repo into a subdirectory of your repo. Later on, upstream changes can be pulled in, and local changes can be pushed back.
 * [splitsh-lite](https://github.com/splitsh/lite) is a very fast git subtree alternative to splits subtrees from your project into subprojects.
 * [josh](https://github.com/esrlabs/josh) is a git server proxy enabling on-the-fly virtualization of repositories.
 * [go-diff](https://github.com/dstreamcloud/go-diff) is a handy tool analyzes which packages needed to be rebuilt due to changes.
