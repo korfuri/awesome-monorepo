@@ -71,6 +71,8 @@ English | [简体中文](./README-zh-CN.md)
 * [What is a monorepo? (and Should You Use Them?)](https://semaphoreci.com/blog/what-is-monorepo).
 * [Continuous Integration for Monorepos](https://semaphoreci.com/blog/continuous-integration-monorepos) for Semaphore-CI users.
 * [monorepo.tools](https://monorepo.tools) - Monorepos explained
+* [Why Buck2](https://github.com/facebookincubator/buck2/blob/main/docs/why.md) - Why Meta rebuild Buck (a monorepo build tool built Rust).
+* [Monorepo Build tools compared](https://earthly.dev/blog/monorepo-tools/) - Comparing Bazel, Pants, Nx and Earthly for monorepo builds.
 
 ## Version control systems & add-ons
 
