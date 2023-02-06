@@ -64,7 +64,7 @@ English | [简体中文](./README-zh-CN.md)
 ## Good reads
 
 * [Why Google Stores Billions of Lines of Code in a Single Repository](https://research.google.com/pubs/pub45424.html)
-* [Advantages and Disadvantages of a Monolithic Repository: A case study at Google](https://people.engr.ncsu.edu/ermurph3/papers/seip18.pdf)
+* [Advantages and Disadvantages of a Monolithic Repository: A case study at Google](https://github.com/mrdulin/resources/blob/master/others/Advantages%20and%20Disadvantages%20of%20a%20Monolithic%20Repository-%20A%20case%20study%20at%20Google.pdf)
 * [Why you should use a single repository for all your company’s projects](https://www.drmaciver.com/2016/10/why-you-should-use-a-single-repository-for-all-your-companys-projects/)
 * [Advantages of monorepos](https://danluu.com/monorepo/)
 * [Monorepos make inner-source come to life](https://kevingoslar.medium.com/monorepos-make-inner-source-come-to-life-bd1592b0cadf)
