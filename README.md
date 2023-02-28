@@ -31,7 +31,9 @@ English | [简体中文](./README-zh-CN.md)
 * [drkns](https://github.com/frantzmiccoli/drkns) is a simple and language agnostic monorepo build tool.
 * [Garment](https://github.com/Farfetch/garment) is Farfetch's monorepo build system with centralized and customizable task management.
 * [GitLab CI](https://gitlab.com/gitlab-org/gitlab-ce/issues/19232) 11.4 supports running steps based on path changes.
+* [Heft](https://www.npmjs.com/package/@rushstack/heft) is a [riggable](https://rushstack.io/pages/heft/rig_packages/) toolchain designed for monorepos; it invokes other popular tools such as TypeScript, ESLint, Jest, webpack, etc.
 * [Lerna](https://lerna.js.org/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
+* [Lockfile Explorer](https://lfx.rushstack.io) is a desktop app for visualizing node_modules folders and fixing version conflicts in a pnpm monorepo workspace.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 * [Nix](https://github.com/NixOS/nix) is a package and distribution build tool with remote caching, predominately used by NixOS.
 * [Nx](https://nx.dev/) is a build system for TypeScript monorepos and a set of monorepo management tools.
