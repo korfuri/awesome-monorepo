@@ -71,6 +71,7 @@ English | [简体中文](./README-zh-CN.md)
 * [What is a monorepo? (and Should You Use Them?)](https://semaphoreci.com/blog/what-is-monorepo).
 * [Continuous Integration for Monorepos](https://semaphoreci.com/blog/continuous-integration-monorepos) for Semaphore-CI users.
 * [monorepo.tools](https://monorepo.tools) - Monorepos explained
+* [JavaScript Monorepo Tools](https://themeselection.com/javascript-monorepo-tools/)
 
 ## Version control systems & add-ons
 
