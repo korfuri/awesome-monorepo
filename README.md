@@ -43,6 +43,7 @@ English | [简体中文](./README-zh-CN.md)
 * [Spago](https://github.com/spacchetti/spago) is a PureScript package manager and build tool powered by Dhall and package-sets.
 * [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) is a PHP monorepo management tool.
 * [Tainted](https://github.com/kynrai/tainted) is a tool to determine which Go packages need to be rebuilt in a monorepo.
+* [tskmgr](https://github.com/mathpaquette/tskmgr) is a minimalistic distributed task system inspired by Nx Cloud.
 * [Versio](https://github.com/chaaz/versio) updates all version numbers in monorepo projects based on [conventional commits](https://www.conventionalcommits.org/), and can generate changelogs and tags.
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
 * [Layer-pack](https://github.com/layer-pack/layer-pack) is a Webpack plugin allowing monorepo structures via inheritable npm packages/code layers & es6 glob imports.
