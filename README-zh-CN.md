@@ -62,7 +62,7 @@
 ## 一些好的参考文献
 
 * [为什么谷歌将数十亿行代码存储在一个仓库中？](https://research.google.com/pubs/pub45424.html)
-* [monorepo 的优势和劣势。谷歌的一个案例研究](https://people.engr.ncsu.edu/ermurph3/papers/seip18.pdf)
+* [monorepo 的优势和劣势。谷歌的一个案例研究](https://dl.acm.org/doi/pdf/10.1145/3183519.3183550)
 * [为什么你应该为你公司的所有项目使用一个单一的仓库？](https://www.drmaciver.com/2016/10/why-you-should-use-a-single-repository-for-all-your-companys-projects/)
 * [monorepo 的优势](https://danluu.com/monorepo/)
 * [Monorepos 使内心的源泉变得鲜活起来](https://kevingoslar.medium.com/monorepos-make-inner-source-come-to-life-bd1592b0cadf)
