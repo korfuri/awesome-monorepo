@@ -31,6 +31,7 @@ English | [简体中文](./README-zh-CN.md)
 * [drkns](https://github.com/frantzmiccoli/drkns) is a simple and language agnostic monorepo build tool.
 * [Garment](https://github.com/Farfetch/garment) is Farfetch's monorepo build system with centralized and customizable task management.
 * [GitLab CI](https://gitlab.com/gitlab-org/gitlab-ce/issues/19232) 11.4 supports running steps based on path changes.
+* [Layer-pack](https://github.com/layer-pack/layer-pack) is a Webpack plugin allowing monorepo structures via inheritable npm packages/code layers & es6 glob imports.
 * [Lerna](https://lerna.js.org/) is a tool for managing JavaScript projects with multiple packages, built on Yarn.
 * [MBT](https://github.com/mbtproject/mbt) is a build tool with differential build support.
 * [Nix](https://github.com/NixOS/nix) is a package and distribution build tool with remote caching, predominately used by NixOS.
@@ -43,10 +44,9 @@ English | [简体中文](./README-zh-CN.md)
 * [Spago](https://github.com/spacchetti/spago) is a PureScript package manager and build tool powered by Dhall and package-sets.
 * [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) is a PHP monorepo management tool.
 * [Tainted](https://github.com/kynrai/tainted) is a tool to determine which Go packages need to be rebuilt in a monorepo.
+* [Turborepo](https://turborepo.org/) is a high-performance build system for JavaScript and TypeScript codebases.
 * [Versio](https://github.com/chaaz/versio) updates all version numbers in monorepo projects based on [conventional commits](https://www.conventionalcommits.org/), and can generate changelogs and tags.
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
-* [Layer-pack](https://github.com/layer-pack/layer-pack) is a Webpack plugin allowing monorepo structures via inheritable npm packages/code layers & es6 glob imports.
-* [Turborepo](https://turborepo.org/) is a high-performance build system for JavaScript and TypeScript codebases.
 
 ## Repository management tools
 
@@ -54,12 +54,12 @@ English | [简体中文](./README-zh-CN.md)
 * [FBShipIt](https://github.com/facebook/fbshipit) is a library written in Hack for copying commits from one repository to another.
 * [adeira/shipit](https://github.com/adeira/shipit) is a simplified JavaScript port of FBShipIt.
 * [Lank](https://github.com/FormidableLabs/lank) is a tool that links packages together in a Node.js monorepo using automatic configuration of `NODE_PATH` instead of symlinks. Lank also allows you to run the same commands across all (or subsets of all) packages.
+* [meta](https://github.com/mateodelnorte/meta) is a tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo.
 * [monorepo-run](https://github.com/Akryum/monorepo-run) is a collection of helpers to run scripts in each package of a yarn monorepo with a separated pane per package.
 * [oao](https://github.com/guigrpa/oao)
 * [Syncpack](https://github.com/JamieMason/syncpack) ensures consistent dependency versions in large JavaScript Monorepos.
 * [Ultra Runner](https://github.com/folke/ultra-runner) is a smart script runner and build tool for Lerna, Pnpm, Rush and Yarn. Scripts run concurrently, using the dependency topology. Builds keep track of file changes and are skipped when possible.
 * [wsrun](https://github.com/whoeverest/wsrun) allows running a command in each package of a Yarn workspaces monorepo.
-* [meta](https://github.com/mateodelnorte/meta) is a tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo.
 
 ## Good reads
 
@@ -164,7 +164,6 @@ English | [简体中文](./README-zh-CN.md)
 * [Branch By Abstraction](https://www.branchbyabstraction.com), is a set-piece technique to effect a ‘longer to complete’ change in the trunk.
 
 ## License
-
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)]("http://creativecommons.org/publicdomain/zero/1.0/)
 
