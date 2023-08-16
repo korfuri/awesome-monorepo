@@ -27,7 +27,7 @@
 * [Bazel](https://bazel.build) 是谷歌的面向 monorepo 的构建系统。更多关于 Bazel 的信息：[awesome-bazel](https://github.com/jin/awesome-bazel) ![github star](https://img.shields.io/github/stars/jin/awesome-bazel.svg?style=social&label=Star)
 * [Bit](https://github.com/teambit/bit) 是一个用于建立和管理具有多个组件的 JavaScript 项目的工具，并管理组件的依赖图。 ![github star](https://img.shields.io/github/stars/teambit/bit.svg?style=social&label=Star)
 * [Bolt Pkg](https://github.com/boltpkg/bolt) 是一个超级强大的 JavaScript 项目管理。 ![github star](https://img.shields.io/github/stars/boltpkg/bolt.svg?style=social&label=Star)
-* [Buck](https://buckbuild.com/) 是 Facebook 的面向 monorepo 的构建系统。 ![github star](https://img.shields.io/github/stars/facebook/buck.svg?style=social&label=Star)
+* [Buck2](https://buck2.build) 是 Facebook 的面向 monorepo 的构建系统。 ![github star](https://img.shields.io/github/stars/facebook/buck2.svg?style=social&label=Star)
 * [drkns](https://github.com/frantzmiccoli/drkns) 是一个简单的、与语言无关的 monorepo 构建工具。 ![github star](https://img.shields.io/github/stars/frantzmiccoli/drkns.svg?style=social&label=Star)
 * [Garment](https://github.com/Farfetch/garment) 是 Farfetch 的 monorepo 构建系统，具有集中和可定制的任务管理。 ![github star](https://img.shields.io/github/stars/Farfetch/garment.svg?style=social&label=Star)
 * [GitLab CI](https://gitlab.com/gitlab-org/gitlab-ce/issues/19232) 11.4 支持根据路径变化执行相应的操作。
