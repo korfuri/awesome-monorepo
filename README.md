@@ -38,7 +38,7 @@ English | [简体中文](./README-zh-CN.md)
 * [OAO](https://github.com/guigrpa/oao) is a Yarn-based, opinionated JavaScript monorepo management tool.
 * [Pants](http://www.pantsbuild.org/) is a monorepo-oriented build system, used by Twitter, Foursquare and multiple other companies.
 * [Please](https://please.build/index.html) a cross-language build system with an emphasis on high performance, extensibility and reproduceability.
-* [pnpm](https://pnpm.js.org/en/) is a JavaScript dependency management tool that supports monorepos through a set of dedicated commands called `pnpm multi`.
+* [pnpm](https://pnpm.io/) is a JavaScript dependency management tool that supports monorepos through a set of dedicated commands called `pnpm multi`.
 * [Rush Stack](https://rushstack.io/) is a family of tools geared towards large scale TypeScript monorepos, and based around the [Rush](https://rushjs.io/) build orchestrator
 * [Spago](https://github.com/spacchetti/spago) is a PureScript package manager and build tool powered by Dhall and package-sets.
 * [Symplify/MonorepoBuilder](https://github.com/Symplify/MonorepoBuilder) is a PHP monorepo management tool.
