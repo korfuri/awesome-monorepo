@@ -26,6 +26,7 @@ English | [简体中文](./README-zh-CN.md)
 * [baur](https://github.com/simplesurance/baur) builds only changed applications in a monorepo branch and manages build artifacts
 * [Bazel](https://bazel.build) is Google's monorepo-oriented build system. More on Bazel: [awesome-bazel](https://github.com/jin/awesome-bazel)
 * [Bit](https://github.com/teambit/bit) is a tool for building and managing JavaScript projects with multiple components, and managing the dependency graph of components.
+* [Blaze](https://blaze-monorepo.dev) is a simple, flexible and blazing fast build system.
 * [Bolt Pkg](https://github.com/boltpkg/bolt) is a super-powered JavaScript project management.
 * [Buck](https://buckbuild.com/) is Facebook's monorepo-oriented build system.
 * [drkns](https://github.com/frantzmiccoli/drkns) is a simple and language agnostic monorepo build tool.

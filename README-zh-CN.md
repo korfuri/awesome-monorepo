@@ -26,6 +26,7 @@
 * [baur](https://github.com/simplesurance/baur) 只在一个 monorepos 分支中构建已更改的应用程序，并管理构建工件 ![github star](https://img.shields.io/github/stars/simplesurance/baur.svg?style=social&label=Star)
 * [Bazel](https://bazel.build) 是谷歌的面向 monorepo 的构建系统。更多关于 Bazel 的信息：[awesome-bazel](https://github.com/jin/awesome-bazel) ![github star](https://img.shields.io/github/stars/jin/awesome-bazel.svg?style=social&label=Star)
 * [Bit](https://github.com/teambit/bit) 是一个用于建立和管理具有多个组件的 JavaScript 项目的工具，并管理组件的依赖图。 ![github star](https://img.shields.io/github/stars/teambit/bit.svg?style=social&label=Star)
+* [Blaze](https://blaze-monorepo.dev) 是一个简单、灵活且非常快速的构建系统
 * [Bolt Pkg](https://github.com/boltpkg/bolt) 是一个超级强大的 JavaScript 项目管理。 ![github star](https://img.shields.io/github/stars/boltpkg/bolt.svg?style=social&label=Star)
 * [Buck](https://buckbuild.com/) 是 Facebook 的面向 monorepo 的构建系统。 ![github star](https://img.shields.io/github/stars/facebook/buck.svg?style=social&label=Star)
 * [drkns](https://github.com/frantzmiccoli/drkns) 是一个简单的、与语言无关的 monorepo 构建工具。 ![github star](https://img.shields.io/github/stars/frantzmiccoli/drkns.svg?style=social&label=Star)
