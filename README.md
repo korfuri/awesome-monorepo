@@ -89,6 +89,7 @@ English | [简体中文](./README-zh-CN.md)
 * [Git sparse-checkout](https://git-scm.com/docs/git-read-tree/)
 	* [Cloning specific folders from git](https://lakehanne.github.io/git-sparse-checkout)
 	* [How to handle big repositories with Git](https://www.atlassian.com/blog/git/handle-big-repositories-git)
+* [Git sparse-clone](https://github.com/chrchr/git-sparse-clone/) is a custom git command to easily create sparse checkouts.
 * [Git LFS](https://git-lfs.github.com/) improves the handling of large files in Git.
 * [GVFS](https://github.com/Microsoft/GVFS) virtualizes the file system beneath your git repo so that git and all tools see what appears to be a normal repo, but GVFS only downloads objects as they are needed. Windows only.
 * [SlothFS](https://gerrit.googlesource.com/gitfs/+/HEAD/docs/manual.md) is similar to GVFS, but read-only. It works on Linux and macOS.
