@@ -47,6 +47,7 @@ English | [简体中文](./README-zh-CN.md)
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
 * [Layer-pack](https://github.com/layer-pack/layer-pack) is a Webpack plugin allowing monorepo structures via inheritable npm packages/code layers & es6 glob imports.
 * [Turborepo](https://turborepo.org/) is a high-performance build system for JavaScript and TypeScript codebases.
+* [Relizy](https://louismazel.github.io/relizy) is a release manager CLI - bump, tags, beautiful changelog generation, publish packages, and create git provider releases.
 
 ## Repository management tools
 
