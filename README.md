@@ -9,6 +9,7 @@ Inspired by [vinta/awesome-python](https://github.com/vinta/awesome-python).
 
 English | [简体中文](./README-zh-CN.md)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for monorepo development orchestration, automated multi-project coordination, and quality management. MIT licensed.
 ## Contents
 
 * [Build systems & dependency management tools](#build-systems--dependency-management-tools)
