@@ -59,6 +59,7 @@ English | [简体中文](./README-zh-CN.md)
 * [Syncpack](https://github.com/JamieMason/syncpack) ensures consistent dependency versions in large JavaScript Monorepos.
 * [Ultra Runner](https://github.com/folke/ultra-runner) is a smart script runner and build tool for Lerna, Pnpm, Rush and Yarn. Scripts run concurrently, using the dependency topology. Builds keep track of file changes and are skipped when possible.
 * [wsrun](https://github.com/whoeverest/wsrun) allows running a command in each package of a Yarn workspaces monorepo.
+* [in-cli](https://github.com/inevolin/in-cli) is a lightweight Bash tool for running shell commands across multiple directories sequentially or in parallel, which is useful for simple monorepo workflows.
 * [meta](https://github.com/mateodelnorte/meta) is a tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo.
 
 ## Good reads
