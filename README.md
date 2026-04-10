@@ -48,6 +48,7 @@ English | [简体中文](./README-zh-CN.md)
 * [Layer-pack](https://github.com/layer-pack/layer-pack) is a Webpack plugin allowing monorepo structures via inheritable npm packages/code layers & es6 glob imports.
 * [Turborepo](https://turborepo.org/) is a high-performance build system for JavaScript and TypeScript codebases.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=korfuri_awesome-monorepo) - Follow developers on GitHub and get a feed of what they star and build.
 ## Repository management tools
 
 * [Builder](https://github.com/FormidableLabs/builder) is a tool that makes it possible to ship the same scripts across projects in a Node.js monorepo. For example, share build and testing scripts across projects.
