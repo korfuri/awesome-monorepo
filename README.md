@@ -149,6 +149,7 @@ English | [简体中文](./README-zh-CN.md)
 * [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/)
 * [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo)
 * [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients)
+* [embercore's monorepo (Go engine + Next.js web app for a plan-first AI marketing planner with MCP support, CLI workflows, Docker, and human checkpoints)](https://github.com/embercore-labs/embercore)
 
 ## Migration tools
 
