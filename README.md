@@ -149,6 +149,7 @@ English | [简体中文](./README-zh-CN.md)
 * [NixOS's monorepo of packages and modules can be used to incrementally build and deploy Linux machines](https://github.com/NixOS/nixpkgs/)
 * [Celo's monorepo (includes blockchain, misc tooling, libraries, ops stuff like terraform modules, docs, etc)](https://github.com/celo-org/celo-monorepo)
 * [ProtonMail's monorepo (the proton web clients: mail, calendar...)](https://github.com/ProtonMail/WebClients)
+* [Hype Stack](https://github.com/BetterTyped/hype-stack) - Full-stack SaaS monorepo template (React, Hono, Vite, Electron, Expo) with end-to-end typesafety.
 
 ## Migration tools
 
