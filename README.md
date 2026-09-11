@@ -60,6 +60,7 @@ English | [简体中文](./README-zh-CN.md)
 * [Ultra Runner](https://github.com/folke/ultra-runner) is a smart script runner and build tool for Lerna, Pnpm, Rush and Yarn. Scripts run concurrently, using the dependency topology. Builds keep track of file changes and are skipped when possible.
 * [wsrun](https://github.com/whoeverest/wsrun) allows running a command in each package of a Yarn workspaces monorepo.
 * [meta](https://github.com/mateodelnorte/meta) is a tool for managing multi-project systems and libraries. It answers the conundrum of choosing between a mono repo or many repos by saying "both", with a meta repo.
+* [vmn](https://github.com/progovoy/vmn) is a language-agnostic tool for versioning independently released services in a monorepo (or across repos), storing semantic versions in annotated git tags.
 
 ## Good reads
 
