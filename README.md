@@ -129,6 +129,7 @@ English | [简体中文](./README-zh-CN.md)
 * [Codefresh](https://codefresh.io/) is a CI/CD platform for Docker/Kubernetes that has native [Monorepo support](https://codefresh.io/continuous-integration/using-codefresh-with-mono-repos/)
 * [CI/CD for Microservices Using Monorepos](https://web.archive.org/web/20201109012429/http://blog.shippable.com/ci/cd-of-microservices-using-mono-repos), a post describing a Shippable.com build designed for triggering builds specific to the microservice that has actually been modified and ones depending on it.
 * [Semaphore CI](https://semaphoreci.com) is a CI/CD platform with native [monorepo support](https://docs.semaphoreci.com/essentials/building-monorepo-projects/).
+* [dynamic-monorepo](https://github.com/Continuous-Actions/dynamic-monorepo) is a GitHub Action that auto-detects projects and their dependencies from their manifests and builds, tests and deploys only what a change affects.
 
 ### Code ownership
 
