@@ -47,6 +47,7 @@ English | [简体中文](./README-zh-CN.md)
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
 * [Layer-pack](https://github.com/layer-pack/layer-pack) is a Webpack plugin allowing monorepo structures via inheritable npm packages/code layers & es6 glob imports.
 * [Turborepo](https://turborepo.org/) is a high-performance build system for JavaScript and TypeScript codebases.
+* [vx](https://vznjs.github.io/vx/) is a fast, open, plugin-based task runner and build cache for JavaScript monorepos; it runs Turborepo and Nx repos unchanged.
 
 ## Repository management tools
 
