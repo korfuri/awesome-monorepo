@@ -95,6 +95,7 @@
 * [josh](https://github.com/esrlabs/josh) 是一个 git 服务器代理，可以实现仓库的即时虚拟化。 ![github star](https://img.shields.io/github/stars/esrlabs/josh.svg?style=social&label=Star)
 * [go-diff](https://github.com/dstreamcloud/go-diff) 是一个方便的工具，可以分析哪些软件包由于变化而需要重建。 ![github star](https://img.shields.io/github/stars/dstreamcloud/go-diff.svg?style=social&label=Star)
 * [mgt](https://github.com/nikita-skobov/monorepo-git-tools) 是一个工具，通过定义如何重新映射仓库的文件，使多个仓库之间的双向同步变得容易。 ![github star](https://img.shields.io/github/stars/nikita-skobov/monorepo-git-tools.svg?style=social&label=Star)
+* [git-nested](https://github.com/thorsten-klein/git-nested) 将多个仓库嵌套到你的 monorepo 中。你仍然可以从每个上游仓库拉取更改，并将你的更改推送回去。它是 git-submodule、git-subtree 和 git-subrepo 的替代品。 ![github star](https://img.shields.io/github/stars/thorsten-klein/git-nested.svg)
 
 #### 扩展信息
 

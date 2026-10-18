@@ -98,6 +98,7 @@ English | [简体中文](./README-zh-CN.md)
 * [josh](https://github.com/esrlabs/josh) is a git server proxy enabling on-the-fly virtualization of repositories.
 * [go-diff](https://github.com/dstreamcloud/go-diff) is a handy tool analyzes which packages needed to be rebuilt due to changes.
 * [mgt](https://github.com/nikita-skobov/monorepo-git-tools) is a tool that enables easy bidirectional sync between multiple repositories via files that define how to remap a repository
+* [git-nested](https://github.com/thorsten-klein/git-nested) nests multiple repositories in your monorepo. You can still pull changes from each upstream and push your changes back. An alternative to git-submodule, git-subtree and git-subrepo.
 
 #### Scaling info
 
