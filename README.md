@@ -46,6 +46,7 @@ English | [简体中文](./README-zh-CN.md)
 * [Versio](https://github.com/chaaz/versio) updates all version numbers in monorepo projects based on [conventional commits](https://www.conventionalcommits.org/), and can generate changelogs and tags.
 * [Yarn](https://yarnpkg.com/blog/2017/08/02/introducing-workspaces/) is a JavaScript dependency management tool that supports monorepos through workspaces.
 * [Layer-pack](https://github.com/layer-pack/layer-pack) is a Webpack plugin allowing monorepo structures via inheritable npm packages/code layers & es6 glob imports.
+* [Tuist](https://github.com/tuist/tuist) is build infrastructure for faster, more reliable build and test workflows across developers, CI, and coding agents.
 * [Turborepo](https://turborepo.org/) is a high-performance build system for JavaScript and TypeScript codebases.
 
 ## Repository management tools
